@@ -1,0 +1,12 @@
+{
+  "name": "UnitTest",
+  "version": "1.0.0",
+  "dependencies": {},
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "devDependencies": {
+    "@types/jest": "^28.1.6",
+    "jest": "^28.1.3"
+  }
+}
